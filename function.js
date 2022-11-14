@@ -38,7 +38,7 @@ document.addEventListener("keyup", function (event) {
           newTodo.style.display = "block";
         }
       });
-      if (toDo_wrapper.children.length > 2) {
+      if (toDo_wrapper.children.length > 5) {
         inputDelete.style.right = "4.9vw";
       }
       let btn = document.querySelector(".button");

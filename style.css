@@ -89,7 +89,7 @@ body {
     }
     .wrapper-con {
       overflow-y: auto;
-      overflow-x: hidden;
+      overflow: hidden;
       width: 35.75vw;
       border: 0.125vw solid #c4c4c4;
       box-sizing: border-box;
